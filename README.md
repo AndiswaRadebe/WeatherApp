@@ -1,2 +1,2 @@
 # WeatherApp
-Created with CodeSandbox
+Created using learning resources from SheCodes
